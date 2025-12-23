@@ -1,52 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ankita Gupta</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | System Design Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">Ankita Gupta</h1>
+<h3 align="center">
+Software Engineer • Full-Stack Developer • System Design Learner
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Ankita-Gupta2004">
-    <img src="https://komarev.com/ghpvc/?username=Ankita-Gupta2004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+I build scalable systems, not just projects.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ankita-Gupta2004&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Who Am I?
 
-- 🎓 Computer Science student
-- 💻 Strong in **Java (DSA)** and **Full Stack Development**
-- 🧠 Learning **System Design (LLD + HLD)**
-- 🔥 Building **FAANG-level projects**
-- 🌱 Currently deep-diving into **Real-Time Systems & CRDTs**
+I am a **Computer Science student** deeply focused on becoming a **strong software engineer**, not just a framework user.
 
----
+- 💻 Strong foundation in **DSA (Java)**
+- 🌐 Full-stack developer (React + Node.js)
+- 🧠 Actively learning **Low Level & High Level System Design**
+- ⚙️ Interested in **Distributed Systems & Real-Time Collaboration**
+- 🎯 Goal: **FAANG / MAANG / Product-based companies**
 
-## 🏆 Featured Project
-
-### 📝 Real-Time Collaboration Editor (Google Docs Clone)
-
-🔹 **Tech Stack**: React, Node.js, WebSockets, Yjs (CRDT), MongoDB  
-🔹 **Features**:
-- Real-time multi-user editing
-- Conflict-free synchronization using **CRDT**
-- Undo / Redo support
-- Document persistence & version history
-- Scalable room-based architecture
-
-🔗 **Repository**:  
-👉 https://github.com/Ankita-Gupta2004/realtime-collaboration-editor
-
-📌 *Designed with system design principles used at Google & Microsoft.*
+I believe **engineering depth > surface-level skills**.
 
 ---
 
-## 🧠 System Design Highlights
+## 🏗️ Engineering Mindset
 
-- Pub-Sub architecture using WebSockets
-- Document-level isolation using rooms
-- CRDT-based conflict resolution
-- Eventual consistency without central ordering
-- Version snapshots & history tracking
+I focus on **how systems work internally**, not just how to use them.
 
-> “I chose CRDT over OT because CRDT supports offline edits, peer-to-peer merging, and avoids central ordering complexity.”
+I care about:
+- scalability
+- consistency
+- latency
+- fault tolerance
+- real-world constraints
+
+> “Anyone can build a CRUD app.  
+> Engineers design systems that don’t break.”
+
+---
+
+## 🧩 What I Am Actively Learning
+
+- System Design (LLD + HLD)
+- WebSockets & Real-Time Systems
+- Pub-Sub architecture
+- CRDTs & conflict resolution
+- Backend scalability patterns
+- Clean code & modular design
 
 ---
 
@@ -69,31 +74,68 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects (Engineering-Focused)
+
+I don’t build random apps — I build **learning-driven systems**.
+
+### 🔹 Real-Time Collaboration Editor
+A Google-Docs-like system built to understand:
+- WebSockets
+- document synchronization
+- system design trade-offs
+- CRDT-based consistency
+
+> This project exists to **learn how large-scale collaboration systems work**, not just to “look good”.
+
+More system-oriented projects coming soon.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankita-Gupta2004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankita-Gupta2004&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-Gupta2004&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-Gupta2004&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-Gupta2004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-Gupta2004&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita-Gupta2004&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita-Gupta2004&theme=redical" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧭 How I Learn
+
+- I don’t rush tutorials
+- I break systems and rebuild them
+- I write documentation for myself
+- I ask *why* before *how*
+
+This GitHub profile is a **timeline of my engineering growth**.
+
+---
+
+## 🌱 Current Focus
+
+- Advanced backend concepts
+- System design interviews
+- Writing clean, explainable code
+- Preparing for product-based companies
+
+---
+
+## 🤝 Let’s Connect
 
 <p>
   <a href="https://www.linkedin.com/" target="_blank">
@@ -106,13 +148,6 @@
 
 ---
 
-## 🔥 What’s Next?
-
-- ✅ Advanced System Design projects
-- ✅ Distributed systems concepts
-- ✅ Open-source contributions
-- ✅ FAANG / MAANG interviews
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">
+<b>“Learning how things work internally is my competitive advantage.”</b>
+</p>
