@@ -138,10 +138,11 @@ This GitHub profile is a **timeline of my engineering growth**.
 ## 🤝 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankita-gupta-44b251296/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <br>
+  <a href="mailto:ankitagupta94161@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
