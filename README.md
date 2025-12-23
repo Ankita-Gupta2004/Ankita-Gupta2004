@@ -115,6 +115,23 @@ More system-oriented projects coming soon.
 
 ---
 
+## 🧬 Engineering DNA
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'radar',
+    data:{
+      labels:['DSA','Backend','System Design','Frontend','Databases','Real-Time Systems'],
+      datasets:[{
+        label:'Engineering Skills',
+        data:[75,80,70,50,65,85]
+      }]
+    }
+  }" />
+</p>
+
+---
+
 ## 🧭 How I Learn
 
 - I don’t rush tutorials
@@ -132,6 +149,22 @@ This GitHub profile is a **timeline of my engineering growth**.
 - System design interviews
 - Writing clean, explainable code
 - Preparing for product-based companies
+
+---
+
+## 🏆 Developer Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankita-Gupta2004&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🔥 Commit Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Ankita-Gupta2004" />
+</p>
 
 ---
 
