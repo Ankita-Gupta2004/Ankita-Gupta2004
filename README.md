@@ -152,14 +152,6 @@ This GitHub profile is a **timeline of my engineering growth**.
 
 ---
 
-## 🏆 Developer Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankita-Gupta2004&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 🔥 Commit Heatmap
 
 <p align="center">
