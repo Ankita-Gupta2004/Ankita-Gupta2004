@@ -115,22 +115,7 @@ More system-oriented projects coming soon.
 
 ---
 
-## 🧬 Engineering DNA
 
-<p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['DSA','Backend','System Design','Frontend','Databases','Real-Time Systems'],
-      datasets:[{
-        label:'Engineering Skills',
-        data:[75,80,70,50,65,85]
-      }]
-    }
-  }" />
-</p>
-
----
 
 ## 🧭 How I Learn
 
